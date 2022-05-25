@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+*{
+
+    margin-left: 100px;
+    margin-top: 1px;
+} 
+ .one{
+     background-color: whitesmoke;
+     background-size: 100px;
+     height: 210px;
+     width: 53.3vw;
+     margin-top: 100px;
+ }
+ .one h1{
+     color: rgb(26, 199, 141);
+ }
+ .one h2{
+     color: chartreuse;
+ }
+ .two{
+     background-color: mediumseagreen;
+     position: absolute;
+     width: 400px;
+     height: 300px;
+     color: white;
+ }
+
+ .three{
+background-color: lightseagreen;  
+   position: absolute;
+     left: 700px;
+     width: 400px;
+     height: 300px;
+     padding-left: 20px;
+     color: white;
+ }
+
+ .btn{
+     background-color: greenyellow;
+     padding: 10px;
+     border-radius: 5px;
+     width: 250px;
+     margin: 15px;
+ }
